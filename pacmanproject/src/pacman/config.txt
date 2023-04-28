@@ -1,0 +1,3 @@
+DatabaseName = "gamescore"
+USER = "sa"
+PASS = "123123";
